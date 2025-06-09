@@ -1,0 +1,14 @@
+.env
+env
+
+*.pth
+*.pt
+*.pkl
+
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+*.yaml
+facebank/
